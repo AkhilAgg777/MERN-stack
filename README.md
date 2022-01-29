@@ -9,7 +9,7 @@ Projects
 
 
 
-//further enhancements done in Greet App developed using React js on 30th jan 2022 ,Zip file of code uploaded that contains 'public' folder,'src' folder,and 'package.json' file.
+//further enhancements(linking of components to each other used in Greet App i.e. communication between them) done in Greet App developed using React js on 30th jan 2022 ,Zip file of code uploaded that contains 'public' folder,'src' folder,and 'package.json' file.
 //You just have to download the zip file and run 'npm start' command in your vs code terminal,project will be up and running
 
 

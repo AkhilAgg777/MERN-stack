@@ -1,5 +1,5 @@
-# MERN-stack
-Code related to MERN Stack
+# React learnings
+Code related to React js
 
 Projects
 
